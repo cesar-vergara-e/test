@@ -1,6 +1,6 @@
 ---
 title: Estandares de Configuración de seguridad
-decription: Estandares de configuración
+decription: Sobre Configuraciones de Seguridadn
 author: Chin Dou, César Vergara
 ---
 
