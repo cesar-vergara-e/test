@@ -1,6 +1,6 @@
 ---
 title: Estandares de Configuración de seguridad
-decription: test test
+decription: Estandares de configuración
 author: Chin Dou, César Vergara
 ---
 
